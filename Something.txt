@@ -1,0 +1,17 @@
+Personal AI Assistant:
+======================
+
+1. Packages Required:
+	a. Speech Recognition
+	b. pyttsx3
+	c. wikipedia
+	d. escapture --XXX-- Try OpenCV
+	e. datetime
+	f. os
+	g. time
+	h. Web Browser
+	i. Subprocess
+	j. json
+	k. request
+	l. wolfram alpha
+

@@ -12,26 +12,50 @@ This system is designed to be used efficiently on desktops. Personal assistants 
 Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
 The usage of Python is such that it cannot be limited to only one activity. Its growing popularity has allowed it to enter into some of the most popular and complex processes like Artificial Intelligence (AI), Machine Learning (ML), natural language processing, data science etc. Python has a lot of libraries for every need of this project. For XXXX, we have used a number of python libraries like Speech Recognition, Pyttsx3, subprocess, OpenCV etc.
 -> Speech Recognition:
+
 Speech recognition is an important feature used in house automation and in artificial intelligence devices. The main function of this library is it tries to understand whatever the humans speak and converts the speech to text.
+
 -> Pyttsx3:
+
 pyttxs3 is a text to speech conversion library in python. This package supports text to speech engines on MacOS, Windows and on Linux.
+
 -> Wikipedia:
+
 Wikipedia is a multilingual online encyclopedia used by many people from academic community ranging from freshmen to students to professors who wants to gain information over a particular topic. This package in python extracts data’s required from Wikipedia.
+
 -> OpenCV:
+
 This module is used to capture images from your camera.
+
 -> Date Time:
+
 This is an inbuilt module in python and it works on date and time.
+
 -> OS:
+
 This module is a standard library in python and it provides the function to interact with operating system.
+
 -> Time:
+
 The time module helps us to display time.
+
 -> Web browser:
+
 This is an in-built package in python. It extracts data from the web.
+
 -> Subprocess:
+
 This is a standard library use to process various system commands like to log off or to restart your PC.
+
 -> Json:
+
 The json module is used for storing and exchanging data.
+
 -> Request:
+
 The request module is used to send all types of HTTP request. Its accepts URL as parameters and gives access to the given URL’S.
+
 -> Wolframalpha:
+
 Wolfram Alpha is an API which can compute expert-level answers using Wolfram’s algorithms, knowledge base and AI technology. It is made possible by the Wolfram Language.
+
